@@ -29,7 +29,6 @@ const st4ColorClass = computed(() => themeHelper.isDarkTheme ? 'st4-dark': 'st4'
 
 <template>
   <div class="text-center">
-    <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1" viewBox="0 0 2048 532" width="1280" height="1280" xmlns="http://www.w3.org/2000/svg">
 <path transform="translate(677,166)" d="m0 0h66l5 4 2 8-1 13-3 5-7 2-58 1-16 3-9 4-7 6-2 5-1 41h194l5 2 3 6v15l-3 6-5 3h-194l1 38 4 7 10 6 10 3 21 2 148 1 5 3 2 5v16l-4 6-7 2h-148l-25-2-21-5-16-8-8-7-7-11-3-8-1-6v-120l2-9 5-10 9-10 11-7 13-5 20-4z" fill="#65C79B"/>
 <path transform="translate(263,71)" d="m0 0h87l29 16 17 10 25 14 17 10v72l-1 3 1 4v65l-3 5-10 9-8 7-10 9-14 12-2 2h-145l-10-7-24-16v-2h179v-11h-34l-139 1-8-1v-25l3-1h142l36 1v-100l-17-10-27-15-24-14-22-12-24-14-13-8z" fill="#66C79B"/>
